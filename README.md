@@ -2,7 +2,7 @@
 
 I'm a Data Analyst living in Canada.
 
-- 💼 any freelance work? do reach, <a href="mailto:lena.a.fedotova@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a> :)
+- 💼 any freelance work? do reach, <a href="mailto:lena.a.fedotova@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white" width="60" height="40"/></a> :)
 - ⚒️ I’m skilled in MS Excel / Sheets, Tableau, Python and SQL.
 - 🌱 I’m currently expanding my skills in PowerBI and Looker.
 - 💬 Ask me about my background in Travel Sales and Social Media Analytics.
