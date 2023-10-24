@@ -7,7 +7,6 @@ I'm a Data Analyst living in Canada.
 - 🌱 I’m currently expanding my skills in PowerBI and Looker.
 - 💬 Ask me about my background in Travel Sales and Social Media Analytics.
 - 📫 How to reach me: [Twitter](https://twitter.com/Paivi_Drop), [LinkedIn](https://www.linkedin.com/in/fedotova-elena/)
-- 😄 Pronouns: she/her/elle
 - ❤️ When I am not coding you can find me playing VR games, cycling, traveling, and learning French. 
 
 ## Projects
